@@ -1,4 +1,13 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-.envTT1
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
