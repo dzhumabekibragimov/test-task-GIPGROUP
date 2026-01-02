@@ -1,4 +1,4 @@
-# Тестовое задание — Backend Developer (GIPGROUP)
+# Тестовое задание — GIPGROUP
 
 ## Структура проекта
 .
